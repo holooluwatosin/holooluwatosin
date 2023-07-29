@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Links to some of my projects;
-Projects: https://bucolic-klepon-58d834.netlify.app/
+Projects: https://bucolic-klepon-58d834.netlify.app/ ||
           https://vale-homepage.netlify.app/
 
 <!--
