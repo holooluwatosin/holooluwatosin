@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Links to some of my projects;
+Projects: https://bucolic-klepon-58d834.netlify.app/
+          https://vale-homepage.netlify.app/
+
 <!--
 **holooluwatosin/holooluwatosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
